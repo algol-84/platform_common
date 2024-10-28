@@ -1,4 +1,4 @@
-package db
+package platform_common
 
 import (
 	"context"

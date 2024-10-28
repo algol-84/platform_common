@@ -1,4 +1,4 @@
-package closer
+package platform_common
 
 import (
 	"log"

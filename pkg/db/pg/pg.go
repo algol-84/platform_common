@@ -1,4 +1,4 @@
-package pg
+package db
 
 import (
 	"context"
@@ -8,7 +8,7 @@ import (
 	"github.com/jackc/pgx/v4"
 	"github.com/jackc/pgx/v4/pgxpool"
 
-	"github.com/algol-84/platform_common/pkg/db"
+	db "github.com/algol-84/platform_common/pkg/db"
 )
 
 type pg struct {
