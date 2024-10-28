@@ -8,7 +8,7 @@ import (
 	"github.com/jackc/pgx/v4"
 	"github.com/jackc/pgx/v4/pgxpool"
 
-	"platform_common/pkg/db"
+	"github.com/algol-84/platform_common/pkg/db"
 )
 
 type pg struct {

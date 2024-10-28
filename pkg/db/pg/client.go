@@ -6,7 +6,7 @@ import (
 	"github.com/jackc/pgx/v4/pgxpool"
 	"github.com/pkg/errors"
 
-	"platform_common/pkg/db"
+	"github.com/algol-84/platform_common/pkg/db"
 )
 
 // pgClient заготовка под несколько потенциально возможных коннектов в БД
